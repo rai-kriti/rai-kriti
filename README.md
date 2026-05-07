@@ -1,9 +1,6 @@
 ## Hi there 👋
 
 
-**rai-kriti/rai-kriti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:# 💫 About Me:
 I’m Kriti Rai, a Computer Science student focused on backend development and system design, with experience building scalable web applications using the MERN stack and modern cloud tools. I enjoy working on real-world problems—optimizing performance, designing clean APIs, and thinking through how systems behave under load. I’ve worked on projects ranging from AI-powered platforms like Krishi Maitri to full-stack dashboards with secure authentication and structured architectures, and I’m particularly interested in creating reliable, efficient systems that go beyond just working to actually making sense in production.<br>
 
 
